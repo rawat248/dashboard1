@@ -1,0 +1,11 @@
+/* styles.css */
+.item{
+    cursor: pointer;
+    transition: color 0.3s;
+    
+  }
+  
+  .item:hover {
+    background-color: darkorchid;
+  }
+  
